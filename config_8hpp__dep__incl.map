@@ -1,0 +1,5 @@
+<map id="include/config.hpp" name="include/config.hpp">
+<area shape="rect" id="Node000001" title="Defines configuration options for network, sensor readings, etc." alt="" coords="5,5,145,31"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html" title="Initializes device and calls routines." alt="" coords="23,79,128,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,44,78,79,73,79,73,44"/>
+</map>

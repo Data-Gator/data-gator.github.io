@@ -1,0 +1,10 @@
+<map id="include/ble_util.hpp" name="include/ble_util.hpp">
+<area shape="rect" id="Node000001" title="Utilities such as callbacks for parsing bluetooth packets." alt="" coords="73,5,223,31"/>
+<area shape="rect" id="Node000002" href="$scheduler_8hpp.html" title="Utilities for scheduling tasks and saving persistent data." alt="" coords="67,79,229,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,44,151,79,145,79,145,44"/>
+<area shape="rect" id="Node000003" href="$setup__util_8hpp.html" title="Utilities to facilitate setup of devices and interfaces." alt="" coords="5,152,171,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,116,100,154,96,150,127,113"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html" title="Initializes device and calls routines." alt="" coords="95,225,201,251"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="167,114,185,151,186,173,180,194,160,226,156,224,175,191,181,172,180,153,163,116"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,186,140,223,136,227,105,190"/>
+</map>
